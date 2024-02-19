@@ -1,7 +1,7 @@
 import pandas as pd
 import sys
 
-sys.path.append('Home/PyCharmProjects/ExtractPLData/.venv/Modules')
+sys.path.append('Home/PyCharmProjects/ExtractPLData/src/Modules')
 import referees as rf
 import teams as tm
 
